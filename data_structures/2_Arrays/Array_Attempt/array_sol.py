@@ -13,6 +13,6 @@ exp[3] = exp[3] - 200
 print(exp)
 
 heros=['spider man','thor','hulk','iron man','captain america']
-print(heros.len())
+print(len(heros))
 heros.append("black panther")
 print(heros)
